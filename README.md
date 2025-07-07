@@ -190,7 +190,7 @@ We welcome contributions to improve the website. Please follow these steps to co
 ## Contributors
 
 This project was developed by:
-
+- **Devesh Dixit** - Developer ([GitHub Profile](https://github.com/DeveshDixit40))
 - **Nikhil Ratoliya** - Developer ([GitHub Profile](https://github.com/Nikhilratoliya6))
 - **Kushal Bansal** - Developer ([GitHub Profile](https://github.com/kushal7201))
 
